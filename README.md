@@ -12,6 +12,6 @@ Feel free to explore our repositories, contribute to ongoing projects, or use ou
 # Thank you
 Thank you for being a part of the Chainway developer community. Your contributions and feedback are crucial as we continue to provide the best tools and resources for your success.
 
-If you have any quesitons, please reach out to our support team at huyiping@chainway.net.
+If you have any quesitons, please reach out to our support team at developer@chainway.net.
 
 Happy coding!
